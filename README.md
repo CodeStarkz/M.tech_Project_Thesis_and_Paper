@@ -30,9 +30,5 @@ The study demonstrates that **EMD-based decomposition combined with statistical 
 
 ---
 
-If you want, I can also:
 
-* Rewrite this in **very short README style**
-* Add a **“How to Run”** section
-* Convert it into a **paper-linked repository README** (with citation + BibTeX)
 
